@@ -19,20 +19,30 @@ The program fetches images from the internet, saves them into a local folder, an
 
 ## 📂 Project Structure
 Ubuntu_Requests/
+
 │
+
 ├── ubuntu_fetcher.py # Main Python script
+
 ├── README.md # Project documentation
+
 └── Fetched_Images/ # Auto-created folder for saved images
 
 🌍 Philosophy
+
 This project reflects the Ubuntu principle:
+
 Community → connecting to the global web community
+
 Respect → handling errors gracefully
+
 Sharing → organizing fetched images for later use
+
 Practicality → a simple but useful everyday tool
 
 
 👩🏽‍💻 Author
+
 Your Name Odii Chinenye Gift
 
 GitHub: https://github.com/chi1034
