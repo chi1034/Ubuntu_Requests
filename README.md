@@ -35,4 +35,4 @@ Practicality → a simple but useful everyday tool
 👩🏽‍💻 Author
 Your Name Odii Chinenye Gift
 
-GitHub: @chi1034
+GitHub: https://github.com/chi1034
